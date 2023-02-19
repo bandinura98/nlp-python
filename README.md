@@ -15,6 +15,7 @@ Navigate to the The Lancaster stemming algorithm:
 
 
 cd blog-post-1
+
 python main.py
 
 # Contributing
