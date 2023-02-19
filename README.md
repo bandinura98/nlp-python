@@ -9,12 +9,12 @@ pip install -r requirements.txt
 
 Each directory contains the code and any necessary data files for the corresponding blog post. Simply navigate to the directory of the blog post you are interested in and run the code.
 
-For example, to run the code for Blog Post 1:
+For example, to run the code for Lancaster stemming algorithm:
 
-Navigate to the The Lancaster stemming algorithm:
+Navigate to the The stemming:
 
 
-cd blog-post-1
+cd stemming
 
 python main.py
 
